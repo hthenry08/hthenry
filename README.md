@@ -10,7 +10,7 @@ Olá, eu sou henry
   <img align="center" alt="Henry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hthenry&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hthenry08&theme=dark&show_icons=true)
 
 <!-- Snake Animation -->
 <div align="center">
