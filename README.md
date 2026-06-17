@@ -12,6 +12,7 @@ Olá, eu sou henry
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hthenry&theme=dark&show_icons=true)
 
+</div>
 <!-- Snake Animation -->
 <div align="center">
 
