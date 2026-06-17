@@ -15,5 +15,5 @@ Olá, eu sou henry
 <!-- Snake Animation -->
 <div align="center">
 
-  ![snake gif](https://github.com/hthenry/hthenry/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/hthenry08/hthenry08/blob/output/github-snake-dark.svg)
 </div>
