@@ -12,6 +12,13 @@ Olá, eu sou henry
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hthenry08&theme=dark&show_icons=true)
 
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hthenry08&theme=date_night&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hthenry08&theme=date_night&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hthenry08&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+
 <!-- Snake Animation -->
 <div align="center">
 
